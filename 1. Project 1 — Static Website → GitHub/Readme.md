@@ -8,6 +8,7 @@ The goal of this project is to build a simple static website and deploy it on an
 
 ### Complete workflow
 
+```text
 
 Developer
     ↓
@@ -27,6 +28,7 @@ Static Website
     ↓
 Internet
 
+```
 
 1. Project Structure
 Project 1/
