@@ -8,7 +8,7 @@ The goal of this project is to build a simple static website and deploy it on an
 
 ### Complete workflow
 
-```text
+
 Developer
     ↓
 VS Code
